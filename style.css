@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+}
+
+h1 {
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  text-align: left;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.points {
+  margin-top: 20px;
+}
+
+#coins,
+#points {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+#coins {
+  color: #FFD700;
+}
+
+#points {
+  color: #FFD700;
+}
+
+.hidden {
+  display: none;
+}
+```
